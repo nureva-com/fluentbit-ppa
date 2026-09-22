@@ -1,0 +1,6 @@
+# Transient workspace created by bin/generate.sh
+.apt-repository.*
+
+# Local GnuPG state when GPG is explicitly directed into this repository
+.gnupg/
+*.gpg~

@@ -1,0 +1,2 @@
+# Nureva Fluent Bit APT repository.
+deb [arch=armhf,arm64 signed-by=/usr/share/keyrings/fluentbit-archive-keyring.gpg] https://nureva-com.github.io/fluentbit-ppa/ ./

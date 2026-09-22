@@ -1,0 +1,32 @@
+Package: fluentbit
+Version: 5.0.9+nureva.1
+Architecture: arm64
+Maintainer: Nureva Inc. <support@nureva.com>
+Installed-Size: 23420
+Depends: ca-certificates, libc6, libgcc-s1, libssl3t64 | libssl3, libstdc++6, libsystemd0, libyaml-0-2, zlib1g
+Filename: ./fluentbit_5.0.9+nureva.1_arm64.deb
+Size: 8000978
+MD5sum: c78899f2822674bb53d0bec38396d0d4
+SHA1: 0cdcaa827bf3e564335db1d12eb4640b92c16b62
+SHA256: 35830d09da0159d149d2b87015d7151062946c9be665bfafa628f80572ff5992
+Section: utils
+Priority: optional
+Description: Fluent Bit log forwarder for Nureva devices
+ Standalone ARM64 Fluent Bit executable.
+
+Package: fluentbit
+Version: 5.0.9+nureva.1
+Architecture: armhf
+Maintainer: Nureva Inc. <support@nureva.com>
+Installed-Size: 26184
+Depends: ca-certificates, libgcc-s1, libssl1.1, libstdc++6, libsystemd0, libyaml-0-2, zlib1g
+Filename: ./fluentbit_5.0.9+nureva.1_armhf.deb
+Size: 7997286
+MD5sum: fb2882907dda51d5746143560a5d9805
+SHA1: 813834040d6e08f628ee98dfe6250c5f44c21932
+SHA256: cfb864560c32e85083e88cfbe895ca562a9374bb0cbf5d0e17ce1b77eaf6e17c
+Section: utils
+Priority: optional
+Description: Fluent Bit log forwarder for Nureva devices
+ Standalone ARMHF Fluent Bit executable.
+
