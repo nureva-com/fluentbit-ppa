@@ -1,0 +1,9 @@
+--- a/src/flb_http_client.c
++++ b/src/flb_http_client.c
+@@ -49,5 +49,6 @@
+ #include <fluent-bit/flb_http_common.h>
+ #include <fluent-bit/flb_http_client.h>
++#include <fluent-bit/flb_upstream_ha.h>
+ #include <fluent-bit/flb_http_client_debug.h>
+ #include <fluent-bit/flb_network.h>
+ #include <fluent-bit/flb_utils.h>
