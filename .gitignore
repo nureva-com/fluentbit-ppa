@@ -4,3 +4,6 @@
 # Local GnuPG state when GPG is explicitly directed into this repository
 .gnupg/
 *.gpg~
+
+# Workspace created by bin/build_deb.sh
+.wrk/
